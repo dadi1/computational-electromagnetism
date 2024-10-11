@@ -30,9 +30,9 @@ d=   3   ;
 g=   3   ;
 h=(b-d)/2;
 epsr=   2   ;
-sigma=    3,0e-3  ;  # S/m
-sigma_dual=   3,5e-3  ; # S/m
-eps0=   1,32812817264306e-11  ;  % F/m
+sigma=    3.0e-3  ;  # S/m
+sigma_dual=   3.5e-3  ; # S/m
+eps0=   1.32812817264306e-11  ;  % F/m
 Vmin=  0 ;     % Volts
 Vmax=   100 ;   % Volts
 %%%
