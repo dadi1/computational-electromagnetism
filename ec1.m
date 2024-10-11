@@ -219,7 +219,7 @@ Cap=  ((epsr * eps0) * 1 * Somat * 1e12) / (Vmax - Vmin) ;
 %%%
 %%%     RESISTENCIA DUAL em ohms
 %%%
-Rdual=  (1 / (R * 1 * sigma * sigma_dual * 1))  ;
+Rdual=  (1 / (R * 1 * sigma * sigma_dual * 1)) / 2  ;
 %%%
 %%%    VETOR DESLOCAMENTO
 %%%
